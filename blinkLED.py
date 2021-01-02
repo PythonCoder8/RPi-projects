@@ -6,7 +6,7 @@ try:
 	print('========================================')
 	print('|              Blink LED               |')
 	print('|    ------------------------------    |')
-	print('|         LED connect to B17           |')
+	print('|         LED connect to BOARD11       |')
 	print('|                          PythonCoder8|')
 	print('========================================')
 
