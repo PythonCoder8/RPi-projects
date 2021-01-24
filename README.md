@@ -7,4 +7,4 @@ Set of Python programs for Raspberry Pi.
 Programs use gpiozero, an easier alternative to RPi.GPIO.
 
 Official documentation:
-[gpiozero documentation by Ben Nuttall](https://readthedocs.org/projects/gpiozero/downloads/pdf/stable/)
+[Gpiozero documentation by Ben Nuttall](https://readthedocs.org/projects/gpiozero/downloads/pdf/stable/)
